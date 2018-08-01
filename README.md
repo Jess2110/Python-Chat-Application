@@ -8,3 +8,4 @@ Steps to run the APP
 5. Enter port: 33000
 6. In order to connect multiple clients, launch the terminal and type python client.py
 7. Connect them to localhost at port 33000
+For further queries, please refer the Instructions document.
